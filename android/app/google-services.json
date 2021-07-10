@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692543884560",
+    "firebase_url": "https://feecalclulator-default-rtdb.firebaseio.com",
+    "project_id": "feecalclulator",
+    "storage_bucket": "feecalclulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692543884560:android:ce85515a6bcbd9d1e12995",
+        "android_client_info": {
+          "package_name": "com.example.fee_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692543884560-gon820gbic2b9ou5qmv13f5odvin6h2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisU2HPHf1TH2CZgJyfAf5IDNPgfDn3Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692543884560-gon820gbic2b9ou5qmv13f5odvin6h2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
